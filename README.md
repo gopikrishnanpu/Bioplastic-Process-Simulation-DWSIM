@@ -1,6 +1,6 @@
 # Bioplastic-Process-Simulation-DWSIM
 Process simulation and scale-up for starch-based bioplastic synthesis using DWSIM.
-# Bioplastic-Process-Simulation-DWSIM
+
 
 This repository contains the DWSIM simulation for the industrial scale-up of my research project, **"Biogreen Fusion."** The project focuses on the formulation of biodegradable plastics using agro-waste from *Musa paradisiaca* (Banana), *Carica papaya*, and *Manihot esculenta* (Tapioca) leaves. This research was recognized and funded by the **Tamil Nadu State Council for Science and Technology (TNSCST)**.
 
